@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
-## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 12/10/2018 to 12/01/2019.
+## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 21/10/2018 to 29/01/2019.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **12/10/18**|_TODO_|[Day 2](#day-2) **08/10/18**| _TODO_ |
-|[Day 3](#day-3) **09/10/18**|_TODO_ |[Day 4](#day-4) **10/10/18**| _TODO_ |
+|[Day 1](#day-1) **21/10/18**|_TODO_|[Day 2](#day-2) **23/10/18**| _TODO_ |
+|[Day 3](#day-3) **24/10/18**|_TODO_ |[Day 4](#day-4) **25/10/18**| _TODO_ |
 ----------
 <a name="day-1"></a>
 ### Day 1: October 07, 2018 
