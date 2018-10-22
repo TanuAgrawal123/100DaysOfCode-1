@@ -19,7 +19,7 @@
  - String
  - List
 
-**Link to work**: [TODO](https://github.com/Khushi55/100DaysOfCode#day-1-october-22-2018)
+**Link to work**: [TODO](https://github.com/Khushi55/100DaysOfCode/blob/master/PythonPractice/Day1.ipynb)
 
    [Table of Contents](#toc)
 
