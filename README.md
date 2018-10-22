@@ -4,7 +4,7 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/10/18**|Basic Pyhon Hello Program,data type,variable,Conditional and looping statement,String,List|[Day 2](#day-2) **08/10/18**| _TODO_ |
+|[Day 1](#day-1) **22/10/18**|Hello Program,data type,variable,Conditional and looping statement,String,List|[Day 2](#day-2) **08/10/18**| _TODO_ |
 |[Day 3](#day-3) **09/10/18**|_TODO_ |[Day 4](#day-4) **10/10/18**| _TODO_ |
 ----------
 <a name="day-1"></a>
@@ -18,7 +18,7 @@
  - String
  - Split function
  - List
-**Link to work**: [TODO]("")
+**Link to work**: [TODO]("https://github.com/Khushi55/100DaysOfCode/tree/master/PythonPractice")
 [Table of Contents](#toc)
 ----------
 <a name="day-2"></a>
