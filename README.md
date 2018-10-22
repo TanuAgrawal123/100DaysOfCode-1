@@ -4,12 +4,12 @@
 ### Table of Contents 
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
-|[Day 1](#day-1) **22/10/18**|Basic Python|[Day 2](#day-2) **08/10/18**| _TODO_ |
+|[Day 1](#day-1) **22/10/18**|Basic Python|[Day 2](#day-2) **23/10/18**|String and Collections|
 |[Day 3](#day-3) **09/10/18**|_TODO_ |[Day 4](#day-4) **10/10/18**| _TODO_ |
 ----------
 <a name="day-1"></a>
 ### Day 1: October 22, 2018 
-**Today's Focus**: _TODO_
+**Today's Focus**: Getting started with Python
 
 **Details**:
  - Data type
@@ -25,11 +25,11 @@
 
 <a name="day-2"></a>
 ### Day 2: October 08, 2018
-**Today's Focus**: _TODO_
+**Today's Focus**: String and Collections
 
 **Details**:
- - _TODO_
- - _TODO_
+ - immutable sequence of unicode codepoints
+ - Strings are immutable, hence function capitalize() did not modify the original string i.e city, rather it created a new string.
  - _TODO_
 
 **Link to work**: _TODO_
