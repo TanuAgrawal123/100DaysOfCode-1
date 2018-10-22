@@ -20,7 +20,8 @@
  - List
 
 **Link to work**: [TODO](https://github.com/Khushi55/100DaysOfCode#day-1-october-22-2018)
-[Table of Contents](#toc)
+
+   [Table of Contents](#toc)
 ----------
 <a name="day-2"></a>
 ### Day 2: October 08, 2018
