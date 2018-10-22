@@ -10,6 +10,7 @@
 <a name="day-1"></a>
 ### Day 1: October 22, 2018 
 **Today's Focus**: _TODO_
+
 **Details**:
  - Data type
  - Variable
@@ -17,7 +18,7 @@
  - Looping statement
  - String
  - List
- 
+
 **Link to work**: [TODO](https://github.com/Khushi55/100DaysOfCode#day-1-october-22-2018)
 [Table of Contents](#toc)
 ----------
