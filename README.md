@@ -18,7 +18,8 @@
  - String
  - Split function
  - List
-**Link to work**: [TODO](https://github.com/Khushi55/100DaysOfCode/tree/master/PythonPractice)
+**Link to work**: [TODO]
+(https://github.com/Khushi55/100DaysOfCode/tree/master/PythonPractice)
 [Table of Contents](#toc)
 ----------
 <a name="day-2"></a>
