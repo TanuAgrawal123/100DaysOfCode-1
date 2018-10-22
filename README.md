@@ -26,28 +26,36 @@
 <a name="day-2"></a>
 ### Day 2: October 08, 2018
 **Today's Focus**: _TODO_
+
 **Details**:
  - _TODO_
  - _TODO_
  - _TODO_
+
 **Link to work**: _TODO_
+
 [Table of Contents](#toc)
-----------
+
 <a name="day-3"></a>
 ### Day 3: October 09, 2018 
 **Today's Focus**: _TODO_
+
 **Details**:
  - _TODO_
  - _TODO_
  - _TODO_
+
 **Link to work**: [GitHub]()
+
 [Table of Contents](#toc)
-----------
+
 <a name="day-4"></a>
 ### Day 4: October 10, 2018 
 **Today's Focus**: _TODO_
+
 **Details**:
  - _TODO_
  - _TODO_
  - _TODO_
+ 
 **Link to work**: [_TODO_]()
