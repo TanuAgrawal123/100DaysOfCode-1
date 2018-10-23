@@ -12,7 +12,7 @@
 **Today's Focus**: Getting started with Python
 
 **Details**:
- - Data type
+ - Different Data type
  - Variable
  - Decision making statement
  - Looping statement
