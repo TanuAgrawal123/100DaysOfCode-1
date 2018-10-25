@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **22/10/18**|Basic Python|[Day 2](#day-2) **23/10/18**|String and Collections|
-|[Day 3](#day-3) **09/10/18**|_TODO_ |[Day 4](#day-4) **10/10/18**| _TODO_ |
+|[Day 3](#day-3) **24/10/18**|HTML tag   |[Day 4](#day-4) **25/10/18**|  |
 ----------
 <a name="day-1"></a>
 ### Day 1: October 22, 2018 
@@ -24,7 +24,7 @@
    [Table of Contents](#toc)
 
 <a name="day-2"></a>
-### Day 2: October 08, 2018
+### Day 2: October 23, 2018
 **Today's Focus**: String and Collections
 
 **Details**:
@@ -37,8 +37,8 @@
 [Table of Contents](#toc)
 
 <a name="day-3"></a>
-### Day 3: October 09, 2018 
-**Today's Focus**: _TODO_
+### Day 3: October 24, 2018 
+**Today's Focus**: HTML tags
 
 **Details**:
  - _TODO_
@@ -50,8 +50,8 @@
 [Table of Contents](#toc)
 
 <a name="day-4"></a>
-### Day 4: October 10, 2018 
-**Today's Focus**: _TODO_
+### Day 4: October 25, 2018 
+**Today's Focus**: 
 
 **Details**:
  - _TODO_
