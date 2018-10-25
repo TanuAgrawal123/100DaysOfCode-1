@@ -5,7 +5,7 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **22/10/18**|Basic Python|[Day 2](#day-2) **23/10/18**|String and Collections|
-|[Day 3](#day-3) **24/10/18**|HTML tag   |[Day 4](#day-4) **25/10/18**|  |
+|[Day 3](#day-3) **24/10/18**|HTML tag   |[Day 4](#day-4) **25/10/18**| Function |
 ----------
 <a name="day-1"></a>
 ### Day 1: October 22, 2018 
@@ -51,7 +51,7 @@
 
 <a name="day-4"></a>
 ### Day 4: October 25, 2018 
-**Today's Focus**: 
+**Today's Focus**: Function
 
 **Details**:
  - _TODO_
