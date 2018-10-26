@@ -19,7 +19,7 @@
  - String
  - List
 
-**Link to work**: [TODO](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/Python%20Practice.ipynb)
+**Link to work**: [TODO](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/PythonPractice.ipynb)
 
    [Table of Contents](#toc)
 
@@ -71,7 +71,7 @@
  - _TODO_
  - _TODO_
 
-**Link to work**: [_TODO_](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/Python%20Practice.ipynb)
+**Link to work**: [_TODO_](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/PythonPractice.ipynb)
 
 [Table of Contents](#toc)
 
