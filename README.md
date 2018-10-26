@@ -71,7 +71,7 @@
  - _TODO_
  - _TODO_
 
-**Link to work**: [_TODO_](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/PythonPractice.ipynb)
+**Link to work**: [_TODO_](http://localhost:8888/tree/Desktop/100DaysOfCode/PythonPractice)
 
 [Table of Contents](#toc)
 
