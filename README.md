@@ -38,14 +38,14 @@
 
 <a name="day-3"></a>
 ### Day 3: October 24, 2018 
-**Today's Focus**: HTML tags
+**Today's Focus**: Basic HTML and HTML5: 
 
 **Details**:
- - _TODO_
- - _TODO_
- - _TODO_
-
-**Link to work**: [GitHub]()
+ - Today I have done my 1 hour coding on "freeCodeCamp" and practiced on different HTML tags .
+ - First of all done my Hello World! program after that learned about different Heading element(H1,H2,H3,H4,H5 and H6), Paragraph element, how to comment in HTML,adding Images in the website, link the external page with anchor tag,make dead link using hash symbol,ordered and unordered list etc.
+ - Further continued my practice and completed to create TextField, add placeholder text to a text field,create a Form element.
+ 
+**Link to work**: [TODO](https://learn.freecodecamp.org/)
 
 [Table of Contents](#toc)
 
@@ -67,16 +67,16 @@
 **Today's Focus**: Python Objects
 
 **Details**:
+ - 
  - _TODO_
- - _TODO_
- - _TODO_
+ - Tuple - heterogeneous immutable sequence
 
 **Link to work**: [_TODO_](http://localhost:8888/tree/Desktop/100DaysOfCode/PythonPractice)
 
 [Table of Contents](#toc)
 
 <a name="day-6"></a>
-### Day 5: October 26, 2018 
+### Day 6: October 27, 2018 
 **Today's Focus**: Python Objects
 
 **Details**:
