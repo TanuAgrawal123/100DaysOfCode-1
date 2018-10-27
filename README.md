@@ -74,3 +74,16 @@
 **Link to work**: [_TODO_](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/Python%20Practice.ipynb)
 
 [Table of Contents](#toc)
+
+<a name="day-6"></a>
+### Day 5: October 26, 2018 
+**Today's Focus**: Python Objects
+
+**Details**:
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_](http://localhost:8888/notebooks/Desktop/100DaysOfCode/PythonPractice/Python%20Practice.ipynb)
+
+[Table of Contents](#toc)
