@@ -43,7 +43,7 @@
 **Details**:
  - Today I have done my 1 hour coding on "freeCodeCamp" and practiced on different HTML tags .
  - First of all done my Hello World! program after that learned about different Heading element(H1,H2,H3,H4,H5 and H6), Paragraph element, how to comment in HTML,adding Images in the website, link the external page with anchor tag,make dead link using hash symbol,ordered and unordered list etc.
- - Further continued my practice and completed to create TextField, add placeholder text to a text field,create a Form element.
+ - Further continued my practice and completed to create TextField, add placeholder text to a text field,create a Form element,add submit button to a form,radio and checkbox buttons and division element.
  
 **Link to work**: [TODO](https://learn.freecodecamp.org/)
 
