@@ -5,8 +5,8 @@
 |Day|Focus|Day|Focus|
 |:---:|:-----:|:---:|:-----:|
 |[Day 1](#day-1) **22/10/18**|Basic Python|[Day 2](#day-2) **23/10/18**|String and Collections|
-|[Day 3](#day-3) **24/10/18**|HTML tag   |[Day 4](#day-4) **25/10/18**| Function |
-----------
+|[Day 3](#day-3) **24/10/18**|HTML tag|[Day 4](#day-4) **25/10/18**| Function |
+|[Day 5](#day-5) **26/10/18**|Python Object |[Day 6](#day-6) **27/10/18**| Function |
 <a name="day-1"></a>
 ### Day 1: October 22, 2018 
 **Today's Focus**: Getting started with Python
