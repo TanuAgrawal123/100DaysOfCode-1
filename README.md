@@ -59,3 +59,18 @@
  - _TODO_
 
 **Link to work**: [_TODO_]()
+
+[Table of Contents](#toc)
+
+<a name="day-5"></a>
+### Day 5: October 26, 2018 
+**Today's Focus**: Python Objects
+
+**Details**:
+ - _TODO_
+ - _TODO_
+ - _TODO_
+
+**Link to work**: [_TODO_]()
+
+[Table of Contents](#toc)
