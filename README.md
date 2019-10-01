@@ -56,9 +56,9 @@
 **Today's Focus**: Python Module
 
 **Details**:
- - 
+  
  - learned about name=='main' (its use),argv function defined in sys library(help to work with command line arguments),documnenting using docstring(use shebang and learn about the rules of documentation),id(return unique identifier for object and help in debugging),function arguments-default arguments its properties,using kwargv (order doesn't matter) and much more
- - 
+  
 
 **Link to work**: [_TODO_]()
 
@@ -72,7 +72,7 @@
  - Today, I have completed my 1 Hour coding on Python Objects.
  - learned about ctime function in time library,variable scope(global and local varaiable,how to modify global variable in a function ),type function(return type of object use), doc function,dir function(give attribute of module,function),tuples,empty tuple,use of tuple to return multiple value etc.
 
- - 
+ 
 
 **Link to work**: [_TODO_](http://localhost:8888/tree/Desktop/100DaysOfCode/PythonPractice)
 
