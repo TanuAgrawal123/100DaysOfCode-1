@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log
-## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/10/2018 to 30/01/2019.
+## This is a round 1 of 100DaysOfCode challenge. I'll code minimum 1 hour every day from date 22/10/2018 to 27/01/2019.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
