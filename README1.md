@@ -1,5 +1,5 @@
 # 30 Days Of Coding Practice on HackerRank on Python language  - Log
-## I'll solve 1 question every day from date 27/10/2018 to 26/11/2018.
+## I'll solve 1 question every day from date 27/10/2018 to 27/11/2018.
 <a name="toc"></a>
 ### Table of Contents 
 |Day|Focus|Day|Focus|
